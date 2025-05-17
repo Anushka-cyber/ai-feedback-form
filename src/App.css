@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #f9f9f9, #e8f0ff);
+  margin: 0;
+  padding: 0;
+}
+
+.MuiCard-root {
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  padding: 24px;
+}
+
+.MuiButton-root {
+  border-radius: 8px;
+  padding: 10px 20px;
+  text-transform: none;
+}
+
+.MuiButton-root:hover {
+  background-color: #3f51b5;
+  color: white;
+}
+
+h4, .MuiTypography-h4 {
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
