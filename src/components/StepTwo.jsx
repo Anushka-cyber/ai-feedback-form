@@ -5,8 +5,6 @@ import {
   Checkbox,
   Box,
   Typography,
-  InputAdornment,
-  TextField,
 } from "@mui/material";
 import EmojiObjectsIcon from "@mui/icons-material/EmojiObjects";
 
